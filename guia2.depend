@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\usuario\desktop\2\guia2\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\2\guia2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1680022987 source:c:\users\usuario\desktop\2\guia2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:d:\programación\programación y laboratorio i\guia2\pila.c
+	"pila.h"
+
+1490112218 d:\programación\programación y laboratorio i\guia2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:d:\programación\programación y laboratorio i\tp n°2 pilas avanzadas\pila.c
+	"pila.h"
+
+1490112218 d:\programación\programación y laboratorio i\tp n°2 pilas avanzadas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1680390487 source:d:\programación\programación y laboratorio i\tp n°2 pilas avanzadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
